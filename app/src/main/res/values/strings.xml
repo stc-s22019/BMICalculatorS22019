@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMICalculatorS22019</string>
+    <string name="cl_name">BMI計算機</string>
+    <string name="tv_name">年齢</string>
+    <string name="height_name">身長</string>
+    <string name="weight_name">体重</string>
+    <string name="cal_name">計算</string>
+    <string name="clear_name">クリア</string>
+    <string name="age_name">歳</string>
+    <string name="cm_name">cm</string>
+    <string name="kg_name">kg</string>
+</resources>
